@@ -27,7 +27,7 @@ TEAM MEMBERS
 --------------------
 RELEVANT FILES
 --------------------
-	/TestPlan.txt - contains step by step instructions on how to test certain features manually
+	/TestPlan.PDF - contains step by step instructions on how to test certain features manually
 	/CommitHistory.PDF - an ordered list of all commits done by the team. Each team member is labeled as follows:
 		MR - Matt Russiello
 		TX - Tong Xu
